@@ -11,8 +11,8 @@ Project2 folder has implementation of approach 2<br>
 In this approach I first used a res_net_ssd to detect the face from the image. it was very fast at detecting the faces with descent accuracy. The output of this CNN (Detected face) is then given to another CNN VGG_Face_net. This generates a feature embedding of shape (1,2622). Finally these embeddings can be used to train any ML classifier (SVM here).
 
 <br>
-<img src="Arch.png" alter="No preview available" />
-![No preview available](https://github.com/DevashishPrasad/Face-Recognition/Project 1/Arch.png "System architecture")
+<img src="Project 1/Arch.png" alter="No preview available" />
+![No preview available](Project 1/Arch.png "System architecture")
 <br>
 File | Description
 --- | --- 
