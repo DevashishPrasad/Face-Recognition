@@ -12,7 +12,7 @@ In this approach I first used a res_net_ssd to detect the face from the image. i
 
 <br>
 <img src="Arch.png" alter="No preview available" />
-![No preview available](https://github.com "System architecture")
+![No preview available](https://github.com/DevashishPrasad/Face-Recognition/Project 1/Arch.png "System architecture")
 <br>
 File | Description
 --- | --- 
