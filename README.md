@@ -13,6 +13,7 @@ In this approach I first used a res_net_ssd to detect the face from the image. i
 <br>
 <img src="Project 1/Arch.png" alter="No preview available" />
 <br>
+
 File | Description
 --- | --- 
 New_User_Images  			|  takes images for a new user and stores into dataset folder
