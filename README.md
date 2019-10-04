@@ -15,14 +15,14 @@ In this approach I first used a res_net_ssd to detect the face from the image. i
 <br>
 File | Description
 --- | --- 
-New_User_Images  |  takes images for a new user and stores into dataset folder
-Face_descriptor  |  detects the face and generates feature embedding for any given image
-New_Embeddings_Extractor  |  it extracts feature embeddings of newly registered user and saves these embeddings in a pickle file
-Embeddings  |  it is the pickle file saved by New_Embeddings_Extractor
-Classification_Model  |  it is the ML SVM model that will be trained on new embeddings and saved as Model_pickle
-Model_pickle  |  trained ML model
-Label_encoder.pickle  |  label encoder saved
-face_recognition  |  putting everything in one place
+New_User_Images  			|  takes images for a new user and stores into dataset folder
+Face_descriptor  			|  detects the face and generates feature embedding for any given image
+New_Embeddings_Extractor  	|  it extracts feature embeddings of newly registered user and saves these embeddings in a pickle file
+Embeddings 					|  it is the pickle file saved by New_Embeddings_Extractor
+Classification_Model  		|  it is the ML SVM model that will be trained on new embeddings and saved as Model_pickle
+Model_pickle  				|  trained ML model
+Label_encoder.pickle  		|  label encoder saved
+face_recognition  			|  putting everything in one place
 
 This approach worked well but did not attain a high accuracy. As a result I implemented the 2nd approach.
 
