@@ -1,7 +1,7 @@
 # Face-Recognition
 This repository contains codes for face recognition project (Automatic attendance system)
 <br>
-I implemented two approaches for face recognition
+I implemented two approaches for face recognition in <b>PYTHON</b>
 <br>
 <br>
 Project1 folder has implementation of approach 1<br>
