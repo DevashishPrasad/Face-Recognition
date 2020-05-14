@@ -47,6 +47,7 @@ main.py 			| runs the application using web camera
 ipmain.py 			| runs the application using ip camera
 dataset				| directory that stores images
 
+How to use:
 1) Run the script (main.py or ipmain.py) 
 2) Press R to Register a new Face, after that type the name of the person to be registered
 3) Press P to get Prediction of the current face in the frame. 
